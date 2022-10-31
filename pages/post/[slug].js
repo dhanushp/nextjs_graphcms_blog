@@ -11,7 +11,7 @@ import {
   Comments,
   CommentsForm,
   Loader,
-} from '../../Components';
+} from '../../components';
 
 const PostDetails = ({ post }) => {
   const router = useRouter();
